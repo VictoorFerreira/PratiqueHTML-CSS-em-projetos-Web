@@ -1,4 +1,4 @@
-Pratique HTML-CSS em Projetos Web
+<h1 align="center">Pratique HTML-CSS em Projetos Web</h1>
 
     HTML5 e CSS3 parte 1: crie uma página da Web
 		Tópicos Abordados
